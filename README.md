@@ -1,4 +1,4 @@
-# Automated Porosity Estimation for Sandstone-reservoirs
+# Automated Porosity Estimation 
 This project utilizes Python (Pandas, Matplotlib, Lasio) to process raw well log data and estimate reservoir properties. The workflow involves data cleaning, lithology identification via Neutron-Density crossplotting, and the calculation of effective porosity using the Density porosity equation.
 
 Key Features:
